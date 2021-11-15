@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ExamenAlejandro</string>
+    <string name="login">Login</string>
+    <string name="name">Nombre:</string>
+    <string name="surname">Password</string>
+    <string name="password">Contraseña</string>
+    <string name="textInicio">Examen PROM 1.Eval Alejandro Lopez de Guereñu</string>
+    <string name="act1">Actividad 1</string>
+    <string name="act2">Actividad 2</string>
+    <string name="exit">EXIT</string>
+    <string name="title_activity_1">Activity1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title1">PERFIL DEL CANDIDATO</string>
+    <string name="date">Fecha Nacimiento:</string>
+    <string name="atencion">¡¡ATENCIÓN!!</string>
+    <string name="errorUserPass">username y password necesarios para entrar en la aplicación.</string>
+    <string name="errorUserPass2">Usuario y/o Contraseña incorrectos. La aplicación se cerrara.</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="sex">sexo</string>
+    <string name="knowledge">Conocimientos</string>
+    <string name="evaluate">EVALUAR</string>
+    <string name="candidates">Candidatos</string>
+    <string name="provincia">provincia</string>
+    <string name="errorValors">ALGUN VALOR NO ES VALIDO/NO HA SIDO SELECCIONADO</string>
+    <string name="info">Informacion</string>
+    <string name="goodbye">Hasta pronto!</string>
+    <string name="accept">ACEPTAR</string>
+    <string name="deny">RECHAZAR</string>
+    <string name="infolocal">las localidades de esta provincia no estan disponibles actualmente. Opción sin implementar!</string>
+</resources>
